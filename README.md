@@ -1,6 +1,6 @@
-- Hi, I’m @raulbattistini, currently at the metropolitan region of Sao Paulo - SP, Brazil. I am 18yo and in less than a month I will be turning 19 on April 7th.
+- Hi, I’m @raulbattistini, currently at the metropolitan region of Sao Paulo - SP, Brazil. I am 19 years by 2022.
 
-- I’m interested in Front-End developing, especially Vue.js and vanilla Javascript.
+- I’m interested in both front and backend developing: Vuejs and vanilla Javascript; Python, SQL database and C language, respectively.
 
 - I’m currently learning JS Frameworks (currently in the "V" of the MEVN stack). There's a long journey for me to take till being able to call myself a full-stack developer: NodeJS, MongoDB database and Express.js.
 
