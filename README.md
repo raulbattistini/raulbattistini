@@ -2,7 +2,6 @@
 
 Comecei no Frontend em 2021, mas tenho me esforçado para ser fullstack também.
 
-Estou disponível no Linkedin em https://lin
 ----
 
 ## 🚀 Minhas Skills
