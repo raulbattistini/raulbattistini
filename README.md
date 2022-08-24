@@ -19,7 +19,7 @@ Estou disponível no Linkedin em https://lin
 
 ---
 Encontre-me em:
-[![Linkedin: Raul Battistini](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-battistini)](https://linkedin.com/in/raul-battistini)
+[![Linkedin: Raul Battistini](https://img.shields.io/badge/-Raul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-battistini)](https://linkedin.com/in/raul-battistini)
 <!---
 raulbattistini/raulbattistini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
