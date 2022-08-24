@@ -1,12 +1,25 @@
-- Hi, I’m @raulbattistini, currently at the metropolitan region of Sao Paulo - SP, Brazil.
+## 💜 Olá, meu nome é <strong>Raul Battistini!</strong>
 
-- I’m interested in both front and backend developing: Vuejs and vanilla Javascript; Python, SQL database and C language, respectively.
+Comecei no Frontend em 2021, mas tenho me esforçado para ser fullstack também.
 
-- I’m currently learning JS Frameworks (focused on React). There's a long journey for me to take till being able to call myself a full-stack developer: NodeJS, MongoDB database and Express.js.
+Estou disponível no Linkedin em https://lin
+----
 
-- You can reach me on LinkedIn: /raul-battistini 
-By now, I know HTML, vanilla CSS and some frameworks as Bootstrap and Material UI. I have made some web-design projects with Wordpress and GIMP such as https://residencialecomercialgamaro.com (for real estate in Sao Paulo). 
-Besides developing, I know quite a bit of marketing as well in copywriting and advertising.
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+
+---
+Encontre-me em:
+[![Linkedin: Raul Battistini](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-battistini)](https://linkedin.com/in/raul-battistini)
 <!---
 raulbattistini/raulbattistini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
