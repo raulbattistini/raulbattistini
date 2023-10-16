@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>Raul Battistini!</strong>
+## Hey there, I'm <strong>Raul Battistini</strong>
 
-Comecei com Frontend em 2021 e me tornei fullstack desde então. 
+I've started with React.js early in 2021 and I've became fullstack since then. 
 
 ----
 
-## 🚀 Minhas Skills
+## Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -19,7 +19,7 @@ Comecei com Frontend em 2021 e me tornei fullstack desde então.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
 ---
-Encontre-me em:
+Social media:
 [![Linkedin: Raul Battistini](https://img.shields.io/badge/-Raul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raul-battistini)](https://linkedin.com/in/raul-battistini)
 <!---
 raulbattistini/raulbattistini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
