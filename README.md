@@ -1,6 +1,6 @@
 ## Hey there, I'm <strong>Raul Battistini</strong>
 
-I've started with React.js early in 2021 and I've became fullstack since then. 
+I've started with React.js early 2021 and I am continuosly expanding my knowledge going over Fullstack ever since then. 
 
 ----
 
