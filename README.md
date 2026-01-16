@@ -1,6 +1,9 @@
 ## Hey there, I'm <strong>Raul Battistini</strong>
 
-I started with React.js and frameworks early 2021 and I have been looking to continuosly engage in a learning quest to deepen my knowledge starting at Fullstack and going beyond to lower level stuff. 
+Father of a pretty little girl. From delivery bike to distributed systems.  
+Focused on performance, concurrency and real-world problems.  
+Backend & systems as main goal.
+
 
 ----
 
